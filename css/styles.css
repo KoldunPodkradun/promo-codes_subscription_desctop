@@ -1,5 +1,5 @@
 * {
-    font-family: 'SF Pro Display', sans-serif;
+    font-family: 'SF Pro Rounded', sans-serif;
     margin: 0;
     padding: 0;
     -webkit-box-sizing: border-box;
@@ -83,6 +83,7 @@ input:focus:-ms-input-placeholder {
     padding-top: 14px;
     padding-bottom: 14px;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .crumbs {
@@ -190,6 +191,7 @@ input:focus:-ms-input-placeholder {
     line-height: 14px;
     color: #6747E5;
     margin-bottom: 30px;
+    cursor: pointer;
 }
 
 .subscription-description {
