@@ -225,6 +225,7 @@ input:focus:-ms-input-placeholder {
     background-position: center;
     margin-right: 20px;
     margin-bottom: 20px;
+    cursor: pointer;
 }
 
 .other-payment-methods-item.card {
